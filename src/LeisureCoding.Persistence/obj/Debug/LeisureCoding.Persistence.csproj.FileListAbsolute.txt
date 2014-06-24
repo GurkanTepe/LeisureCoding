@@ -1,0 +1,12 @@
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\LeisureCoding.Persistence.dll.config
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\LeisureCoding.Persistence.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\LeisureCoding.Persistence.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\EntityFramework.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\LeisureCoding.Domain.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\LeisureCoding.Domain.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\EntityFramework.xml
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\obj\Debug\LeisureCoding.Persistence.csprojResolveAssemblyReference.cache
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\obj\Debug\LeisureCoding.Persistence.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Persistence\obj\Debug\LeisureCoding.Persistence.pdb

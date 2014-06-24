@@ -1,0 +1,9 @@
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Queries.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Queries.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Domain.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Interfaces.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Domain.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\bin\Debug\LeisureCoding.Interfaces.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\obj\Debug\LeisureCoding.Queries.csprojResolveAssemblyReference.cache
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\obj\Debug\LeisureCoding.Queries.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Queries\obj\Debug\LeisureCoding.Queries.pdb

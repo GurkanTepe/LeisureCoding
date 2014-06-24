@@ -1,0 +1,7 @@
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\bin\Debug\LeisureCoding.Interfaces.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\bin\Debug\LeisureCoding.Interfaces.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\bin\Debug\LeisureCoding.Domain.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\bin\Debug\LeisureCoding.Domain.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\obj\Debug\LeisureCoding.Interfaces.csprojResolveAssemblyReference.cache
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\obj\Debug\LeisureCoding.Interfaces.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Interfaces\obj\Debug\LeisureCoding.Interfaces.pdb

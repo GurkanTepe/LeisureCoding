@@ -1,0 +1,5 @@
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Domain\bin\Debug\LeisureCoding.Domain.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Domain\bin\Debug\LeisureCoding.Domain.pdb
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Domain\obj\Debug\LeisureCoding.Domain.csprojResolveAssemblyReference.cache
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Domain\obj\Debug\LeisureCoding.Domain.dll
+D:\Gurkan\ProjectGitHub\LeisureCoding\src\LeisureCoding.Domain\obj\Debug\LeisureCoding.Domain.pdb
